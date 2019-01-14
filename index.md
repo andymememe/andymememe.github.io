@@ -6,8 +6,9 @@
 * * *
 
 {% for category in site.categories %}
-    ## {{ category[0] }}
+## {{ category[0] }}
     {% for post in category[1] %}
- * [{{ post.title }}]({{ post.url }}) {{ post.excerpt }}
+ * [{{ post.title }}]({{ post.url }})
+    {{ post.excerpt }}
     {% endfor %}
 {% endfor %}

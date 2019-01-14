@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello to Every One
-categories: [blog, other]
+categories: [Blog, Other]
 tags: [hello, welcome]
 ---
 
