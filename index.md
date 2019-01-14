@@ -1,5 +1,7 @@
 # Andy's Projects
 
 {% for repository in site.github.public_repositories %}
-  * [{{ repository.name }}]({{ repository.html_url }})
+    {% unless repository.name contains '.' %}
+        * [{{ repository.name }}]({{ repository.html_url }})
+    {% endunless %}
 {% endfor %}
