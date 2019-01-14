@@ -1,17 +1,27 @@
-# Andy's Projects
+ * [Github Home](https://github.com/andymememe)
+ * [Andy's Dev Diary](https://am3devdiary.wordpress.com/)
+ * [About Me](/about)
+
+# My Projects
+
 ## Python
- * [PyTorchModel] (https://github.com/andymememe/PyTorchModel)
- * [PyEBCDIC] (https://github.com/andymememe/PyEBCDIC)
+ * [PyTorchModel](https://github.com/andymememe/PyTorchModel)
+ * [PyEBCDIC](https://github.com/andymememe/PyEBCDIC)
+
 ## Ruby
- * [Weather-on-Ruby] (https://github.com/andymememe/Weather-on-Ruby)
- * [News-on-Ruby] (https://github.com/andymememe/News-on-Ruby)
- * [SimpleSystem] (https://github.com/andymememe/SimpleSystem)
+ * [Weather-on-Ruby](https://github.com/andymememe/Weather-on-Ruby)
+ * [News-on-Ruby](https://github.com/andymememe/News-on-Ruby)
+ * [SimpleSystem](https://github.com/andymememe/SimpleSystem)
+
 ## Web
- * [Project-HTML-and-JS] (https://github.com/andymememe/Project-HTML-and-JS)
+ * [Project-HTML-and-JS](https://github.com/andymememe/Project-HTML-and-JS)
+
 ## C++
- * [flTextEditor] (https://github.com/andymememe/flTextEditor)
- * [QtCalculator] (https://github.com/andymememe/QtCalculator)
+ * [flTextEditor](https://github.com/andymememe/flTextEditor)
+ * [QtCalculator](https://github.com/andymememe/QtCalculator)
+
 ## C# #
- * [DictionaryApp] (https://github.com/andymememe/DictionaryApp)
+ * [DictionaryApp](https://github.com/andymememe/DictionaryApp)
+
 ## Java
- * [JZipTool] (https://github.com/andymememe/JZipTool)
+ * [JZipTool](https://github.com/andymememe/JZipTool)
