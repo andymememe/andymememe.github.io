@@ -1,10 +1,17 @@
 # Andy's Projects
-
-{% for repository in site.github.public_repositories %}
-    {% assign counter = 5 %}
-    {% unless repository.name contains '.' or counter <= 0 %} 
-  * [{{ repository.name }}]({{ repository.html_url }})
-        {% assign counter = counter - 1 %}
-    {% endunless %}
-{% endfor %}
-* [More](/projects)
+## Python
+ * [PyTorchModel] (https://github.com/andymememe/PyTorchModel)
+ * [PyEBCDIC] (https://github.com/andymememe/PyEBCDIC)
+## Ruby
+ * [Weather-on-Ruby] (https://github.com/andymememe/Weather-on-Ruby)
+ * [News-on-Ruby] (https://github.com/andymememe/News-on-Ruby)
+ * [SimpleSystem] (https://github.com/andymememe/SimpleSystem)
+## Web
+ * [Project-HTML-and-JS] (https://github.com/andymememe/Project-HTML-and-JS)
+## C++
+ * [flTextEditor] (https://github.com/andymememe/flTextEditor)
+ * [QtCalculator] (https://github.com/andymememe/QtCalculator)
+## C# #
+ * [DictionaryApp] (https://github.com/andymememe/DictionaryApp)
+## Java
+ * [JZipTool] (https://github.com/andymememe/JZipTool)
