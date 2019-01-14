@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+.cbtn {
+    color: rgba(0, 100, 0, 0.7);
+    background-color: rgba(0, 100, 0, 0.08);
+    border-color: rgba(0, 100, 0, 0.2);
+
+    &:hover {
+        color: rgba(0, 100, 0, 0.8);
+        text-decoration: none;
+        background-color: rgba(0, 100, 0, 0.2);
+        border-color: rgba(0, 100, 0, 0.3);
+    }
+}

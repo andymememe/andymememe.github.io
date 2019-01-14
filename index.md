@@ -1,6 +1,6 @@
-<a href="https://github.com/andymememe" class="btn">Github Home</a>
-<a href="https://am3devdiary.wordpress.com/" class="btn">Andy's Dev Diary</a>
-<a href="/about" class="btn">About Me</a>
+<a href="https://github.com/andymememe" class="btn cbtn">Github Home</a>
+<a href="https://am3devdiary.wordpress.com/" class="btn cbtn">Andy's Dev Diary</a>
+<a href="/about" class="btn cbtn">About Me</a>
 
 * * *
 
