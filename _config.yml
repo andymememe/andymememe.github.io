@@ -1,5 +1,6 @@
 title: Andy's Project
 theme: jekyll-theme-cayman
+excerpt_separator: <!--more-->
 plugins:
   - jemoji
   - jekyll-mentions
