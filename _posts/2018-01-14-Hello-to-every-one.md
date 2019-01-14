@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Hello to Every One
 categories: [Blog, Other]
 tags: [hello, welcome]
