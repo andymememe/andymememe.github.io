@@ -1,6 +1,8 @@
- * [Github Home](https://github.com/andymememe)
- * [Andy's Dev Diary](https://am3devdiary.wordpress.com/)
- * [About Me](/about)
+<a href="https://github.com/andymememe" class="btn">Github Home</a>
+<a href="https://am3devdiary.wordpress.com/" class="btn">Andy's Dev Diary</a>
+<a href="/about" class="btn">About Me</a>
+
+* * *
 
 # My Projects
 
