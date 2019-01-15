@@ -25,3 +25,9 @@ title: Feature Projects
 
 ## Java
  * [JZipTool](https://github.com/andymememe/JZipTool) / [Page](/JZipTool)
+ * [SHAChecker](https://github.com/andymememe/SHAChecker) / [Page](/SHAChecker)
+ * [CRFDemo](https://github.com/andymememe/CRFDemo) / [Page](/CRFDemo)
+ * [DeepLearningDemo](https://github.com/andymememe/DeepLearningDemo)
+ * [FunctionalDemo](https://github.com/andymememe/FunctionalDemo)
+ * [LuceneDemo](https://github.com/andymememe/LuceneDemo)
+ 
